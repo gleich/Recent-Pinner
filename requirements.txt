@@ -1,2 +1,2 @@
-PyGithub==1.44.1
+reqests==2.20.1
 PyYaml==5.2
